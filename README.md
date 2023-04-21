@@ -1,6 +1,6 @@
 ## This is a demo project for students to write a basic README for their projects
 
-Remember to check Githun Awesome list of README examples: [https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
+Remember to check Github Awesome list of README examples: [https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
 
 ## Introduction
 
@@ -10,16 +10,17 @@ Remember to check Githun Awesome list of README examples: [https://github.com/ma
 
 ## Commodore 64 basic and sprite graphics
 
-The Commodore 64 User's Guide has some helpful programming tutorials and code samples how to develope with C64 and how to program with Commodore Basic language. Basic language was licensed from Microsoft. Following example is somewhat famous up, up, and away sprite graphics demonstration, where C64 is programmed to display moving hot air balloon on the TV screen or monitor.
-
-Sprite design involved usually a grid paper drawing and planning. Then developer does binary arithmetics to get the related data values of the sprite. For example, the line number 200 and second data value 127 (64+32+16+8+4+2+1) there represents the first row and middle column of the sprite. The first columnt and first row value is zero because there are no any bits set.
+The Commodore 64 User's Guide has some helpful programming tutorials and code samples how to develop with C64. Or more like how to program with Commodore Basic language. Basic language was licensed from Microsoft. Following example is somewhat famous **Up, up, and away** sprite graphics demonstration, where C64 is programmed to display moving hot air balloon on the TV screen or monitor.
 
 ![Alt text](images/balloon.png?raw=true "Balloon")
 
-This code clears screen and sets values to video memory from data lines. When balloon sprite is moved across the screen with loop (line 70 goto)
+Early sprite design involves usually a grid paper drawings and planning. Then developer does binary arithmetics to get the related data values of the sprite. For example, the line number 200 and second data value 127 (64+32+16+8+4+2+1) there represents the first row and middle column of the sprite. The first column and first row value is zero because there are no any bits set.
+
+This full code example clears screen and sets values to video memory from data lines (200-240). Then balloon sprite is moved across the screen with loop (line 70 goto).
 
 ![Alt text](images/basic_code.png?raw=true "Basic code for three balloons")
 
+This [code example](https://github.com/t2946282/demoproject/blob/be9d359f1be4abd0433715bfd1881238b25569c6/threeballoons.txt) is same but it draws three sprites.
 
 ## License
 
