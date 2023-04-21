@@ -10,7 +10,7 @@ Remember to check Github Awesome list of READMEs for more examples: [https://git
 
 ## Commodore 64 basic and sprite graphics
 
-The Commodore 64 User's Guide has some helpful programming tutorials and code samples how to develop with C64. Or more like how to program with Commodore Basic language. Basic language was licensed from Microsoft. Following example is somewhat famous **Up, up, and away** sprite graphics demonstration, where C64 is programmed to display moving hot air balloon on the TV screen or monitor.
+The Commodore 64 User's Guide has some helpful programming tutorials and code samples how to develop with C64. Or more like how to program with Commodore Basic language. Basic language was licensed from Microsoft. Following example is somewhat famous **Up, up, and away** sprite graphics demonstration, where C64 is programmed to display a moving hot air balloon across the TV screen or monitor.
 
 ![Alt text](images/balloon.png?raw=true "Balloon")
 
@@ -32,7 +32,7 @@ This info page is using MIT license. Details: [https://github.com/t2946282/demop
 - [Programming Graphics on the Commodore 64, page 181 \(PDF\)](https://www.commodore.ca/manuals/c64_programmers_reference/c64-programmers_reference_guide-03-programming_graphics.pdf)
 - [Nostalgia - C64 Manuals](https://codeincomplete.com/articles/c64-manual-nostalgia/)
 
-## Why do you need a proper Readme for student projects
+## End note: Why do you need a proper readme file for student projects
 
 You should build a university and hobby project portfolio to yourself which you can promote when applying to company oriented projects (3rd and 4th year), internships, summer jobs etc.
 
