@@ -1,4 +1,4 @@
-### This is a demo project for students to write a basic README for their projects
+# This is a demo project for students to write a basic README for their projects
 
 Remember to check Github Awesome list of READMEs for more examples: [https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
 
