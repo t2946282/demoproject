@@ -2,7 +2,7 @@
 
 Remember to check Github Awesome list of READMEs for more examples: [https://github.com/matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
 
-## Introduction
+# Introduction
 
 *The Commodore 64, also known as the C64, is an 8-bit home computer introduced in January 1982 by Commodore International (first shown at the Consumer Electronics Show, January 7–10, 1982, in Las Vegas). It has been listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 12.5 and 17 million units.*
 
